@@ -1,7 +1,7 @@
-<div style="background: #193549; padding: 15px;">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Crafting1i&show_icons=true&count_private=true" />
-  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crafting1i&show_icons=true&count_private=true" />
+</div>
 
 ### About
 - I'm **Mirai** aka Crating1i, aka Mona aka *"Who are you?"* (Yeah, all names are not real, but maybe in future...)
@@ -20,4 +20,3 @@
 ### Contact
 [![TG: @Crafting1i](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](https://t.me/Crafting1i)
 [![Discord Server: https://discord.gg/7zbR2UGNT4](https://img.shields.io/badge/Discord_Server---?logo=discord&style=for-the-badge&color=black&logoColor=white)](https://discord.gg/7zbR2UGNT4)
-</div>
