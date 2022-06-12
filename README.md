@@ -18,5 +18,5 @@
 
 
 ### Contact
-[![TG: @Crafting1i](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](https://t.me/Crafting1i)
+[![TG: @Crafting1i](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](https://t.me/Amesudesu)
 [![Discord Server: https://discord.gg/7zbR2UGNT4](https://img.shields.io/badge/Discord_Server---?logo=discord&style=for-the-badge&color=black&logoColor=white)](https://discord.gg/7zbR2UGNT4)
