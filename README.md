@@ -4,7 +4,7 @@
 </div>
 
 ### About
-- I'm **Mirai** aka Crating1i, aka Mona aka *"Who are you?"* (Yeah, all names are not real, but maybe in future...)
+- I'm **Ame** aka Crating1i, aka Mona, aka *"Who are you?"* (Yeah, all names are not real, but maybe in future...)
 - I'm fullstack JS(little TS) developer, litte(or not) anime boy(not from anime, and pity) from Ukraine
 - Like(and enjoy) to **learn**, **invent** and **do** cool things(but it doesn't come out very well)
 - Not looking for official jobs, but don't mind if you donate me :D
