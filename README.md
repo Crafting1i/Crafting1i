@@ -13,7 +13,7 @@
 ### My projects
 - **Desktop Novel.tl**. It will must be an fanmade application on PCs with light novels from [novel.tl](https://novel.tl/).
 - **Sakura walking**. Only a planned browser game designed to enjoy the beauty of cherry blossoms and get a little distracted from the surrounding reality. Not currently under development, but I plan to continue in the future.
-- **Manytoon Parser**. JS library for parsing [manytoon.com](https://manytoon.com/). There are many bugs currently, but i will fix and adapte it in future .
+- **Manytoon Parser**. JS library for parsing [manytoon.com](https://manytoon.com/). It can have bugs currently, but i will fix and adapte it in future .
 - And else little projects, which you can see in my repos.
 
 
